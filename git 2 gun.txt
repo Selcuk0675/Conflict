@@ -1,1 +1,2 @@
 git 2. gun
+git 2. gun 2.deneme
