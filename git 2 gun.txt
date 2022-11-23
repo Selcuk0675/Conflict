@@ -6,5 +6,6 @@ git 2. gun 4.deneme Master Branch
 git 2. gun 4.deneme Selcuk Branch 2. deneme
 git 2. gun 4.deneme bilal Branch 1. deneme
 MASTER BRANCH
+MASTER BRANCH 2
 
 
